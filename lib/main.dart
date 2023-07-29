@@ -112,7 +112,7 @@ class _MyHomePageState extends State<MyHomePage> {
             onPressed: () => _startAddNewTx(context), icon: Icon(Icons.add))
       ],
       title: Text(
-        'ajmi task',
+        'rami m6e',
         style: Theme.of(context).textTheme.titleLarge,
       ),
     );
